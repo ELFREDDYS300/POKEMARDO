@@ -1,0 +1,44 @@
+body {
+    margin-left: 40%;
+    margin-right: 45%;
+    padding-top: 7%;
+    text-align: center;
+    background-image: url(https://cdn.wallpapersafari.com/35/31/0IDzys.jpg);
+    background-position: auto ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+  }
+  
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    margin-top: 10%;
+   
+    border-color: #2e2e2e;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnseEASm5_-2g72f1LhnNVrbbEfOWWLmQPOg&s);
+      border-style: solid;
+      border-width: 3px;
+      padding-bottom: 10%;
+
+  }
+
+#CONSUMO {
+  width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 900px;
+}
+#boton{
+  background-color: #ffffff;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 5px;
+}
